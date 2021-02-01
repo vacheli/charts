@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-etcd-backup:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-01T15:55:27.983574903+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 92832547128e15805ccf522e28c5337d75670002a4c8148ce0e8dbdb0adf05f7
+    name: k8s-etcd-backup
+    type: application
+    urls:
+    - https://github.com/vacheli/charts/k8s-etcd-backup-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-01T15:55:27.982014948+08:00"
